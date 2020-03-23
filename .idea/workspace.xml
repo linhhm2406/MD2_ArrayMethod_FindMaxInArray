@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a1354191-4de0-4f85-82b7-584e96b5682e" name="Default Changelist" comment="" />
+    <list default="true" id="a1354191-4de0-4f85-82b7-584e96b5682e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FindMax.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FindMax.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,6 +28,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="SDKs" />
@@ -45,6 +49,9 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="a1354191-4de0-4f85-82b7-584e96b5682e" name="Default Changelist" comment="" />
@@ -55,12 +62,46 @@
       <workItem from="1584803918404" duration="2291000" />
       <workItem from="1584812923059" duration="11000" />
     </task>
+    <task id="LOCAL-00001" summary="add new file">
+      <created>1584982867187</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1584982867187</updated>
+    </task>
+    <task id="LOCAL-00002" summary="add new file">
+      <created>1584983684202</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1584983684202</updated>
+    </task>
+    <task id="LOCAL-00003" summary="add new file">
+      <created>1584983813134</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1584983813134</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add new file" />
+    <option name="LAST_COMMIT_MESSAGE" value="add new file" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="804" y="451" width="301" height="217" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1584982976409">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state x="804" y="451" width="301" height="217" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.40.1920.1040@0.40.1920.1040" timestamp="1584982976409" />
+    <state x="571" y="123" width="768" height="873" key="CommitChangelistDialog2" timestamp="1584983813033">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state x="571" y="123" width="768" height="873" key="CommitChangelistDialog2/0.40.1920.1040@0.40.1920.1040" timestamp="1584983813033" />
     <state width="914" height="235" key="GridCell.Tab.0.bottom" timestamp="1584810642783">
       <screen x="0" y="27" width="1920" height="994" />
     </state>
@@ -77,6 +118,10 @@
       <screen x="0" y="27" width="1920" height="994" />
     </state>
     <state width="914" height="235" key="GridCell.Tab.0.right/0.27.1920.994@0.27.1920.994" timestamp="1584810642783" />
+    <state x="554" y="295" width="802" height="529" key="Vcs.Push.Dialog.v2" timestamp="1584983817330">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state x="554" y="295" width="802" height="529" key="Vcs.Push.Dialog.v2/0.40.1920.1040@0.40.1920.1040" timestamp="1584983817330" />
     <state x="538" y="101" width="1372" height="843" key="new project wizard" timestamp="1584810641246">
       <screen x="0" y="27" width="1920" height="994" />
     </state>
